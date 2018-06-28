@@ -1,0 +1,18 @@
+{
+  "nombre":"Miriam Valencia",
+  "musica":[{"genero":"PostRock",
+              "data": [
+                {"id": "Mono", "name": "Follow the map"},
+                {"id": "Mogwai", "name": "Friend of the Night"},
+                {"id": "Sigur Rós", "name": "Hoppípolla"}
+                ]
+            },
+            {"genero":"Death metal",
+              "data": [
+                {"id": "In flames", "name": "Alias"},
+                {"id": "Wintersun", "name": "Time"},
+                {"id": "Dark tranquillity", "name": "Atoma"}
+                ]
+            }
+          ]
+}

@@ -8,6 +8,7 @@ A continuación se muestra una tabla con las carpetas que contiene el proyecto, 
 | ------ | ------ |
 | solucionArrowFunctions | archivos sobre sesion de arrow functions |
 | tareaEjercicios | archivos con los ejercicios resueltos (links de internet) |
+| solucionPromesas | archivos relacionados con el ejercicio de promesas (lista de música) |
 
 
 ## solucionArrowFunctions
@@ -32,3 +33,10 @@ Estos archivos son la solución a los ejercicios que venían en unos link's que 
 * [solucionEj4.js] - links de internet.
 
 
+## solucionPromesas
+Serie de archivos que contienen lo relacionado al ejercicio acerca de Promesas
+
+* [index.html] - html que manda los resultados a pantalla.
+* [estilos.css] - hoja de estilos.
+* [canciones_iveth.json] - datos a mostrar en pantalla.
+* [promesas.js] - javascript para ejecutar la promesa.
