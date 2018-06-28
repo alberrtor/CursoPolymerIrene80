@@ -9,3 +9,8 @@
 | ejercicio3.js | [Tarea 3](https://www.testdome.com/questions/javascript/remove-property/11883?visibility=1&skillId=2) |
 | ejercicio4.js | [Tarea 4](https://www.testdome.com/questions/javascript/closures/11099?visibility=1&skillId=2) |
 | conversion_divisas.js | Clase Conversion en javasript |
+
+
+### En la carpeta "solucion_promesas_js" contiene:
+
+- La tarea de lista de canciones, poniendo en práctica el tema de "Promesas JavaScript"
