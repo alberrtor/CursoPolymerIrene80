@@ -1,0 +1,68 @@
+{
+  "usuario":"Alberto",
+  "genero": [
+              {
+                "nombre":"ranchera",
+                "canciones": [
+                             { "cantante":"José Alfredo Jiménez",
+                               "titulo":"En el último trago"
+                             },
+                             { "cantante":"José Alfredo Jiménez",
+                                "titulo":"Un mundo raro"
+                             },
+                             { "cantante":"José Alfredo Jiménez",
+                                "titulo":"Te solté la rienda"
+                             },
+                             { "cantante":"Vicente Fernández",
+                                "titulo":"Mujeres divinas"
+                             },
+                             { "cantante":"Vicente Fernández",
+                                "titulo":"Que te vaya bonito"
+                             }
+                           ]
+              },
+              {
+                "nombre":"Rock Español",
+                "canciones": [
+                             { "cantante":"Heroes del silencio",
+                               "titulo":"Chispa adecuada"
+                             },
+                             { "cantante":"Los fabulosos Cadillacs",
+                                "titulo":"Matador"
+                             },
+                             { "cantante":"Café tacuba",
+                                "titulo":"Ingrata"
+                             },
+                             { "cantante":"Enanitos Verdes",
+                                "titulo":"La muralla Verde"
+                             },
+                             { "cantante":"DLD",
+                                "titulo":"Mi vida"
+                             },
+                             { "cantante":"DLD",
+                                "titulo":"Todo cuenta"
+                             }
+                           ]
+              },
+              {
+                "nombre":"Trova",
+                "canciones": [
+                             { "cantante":"Joaquín Sabina",
+                               "titulo":"Por el bulevar de los sueños rotos"
+                             },
+                             { "cantante":"Joaquín Sabina",
+                                "titulo":"Pastillas Para no soñar"
+                             },
+                             { "cantante":"Joaquín Sabina",
+                                "titulo":"19 días y 500 noches"
+                             },
+                             { "cantante":"Fernando Delgadillo",
+                                "titulo":"JHoy ten miedo de mí"
+                             },
+                             { "cantante":"Fernando Delgadillo",
+                                "titulo":"Buenas intenciones"
+                             }
+                           ]
+              }
+            ]
+}
